@@ -47,6 +47,6 @@ I'm a passionate software developer with a love for Linux. I enjoy building a va
 
 ### Contact Me
 
-You can reach out to me through [Reddit](https://www.reddit.com/user/munabedan).
+You can reach out to me through my email munabedan@gmail.com
 
 Thanks for visiting my profile!
