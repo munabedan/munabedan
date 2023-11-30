@@ -1,7 +1,7 @@
 <!--Title @munabedan-->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+from+kenya;I'm+25+years+old;Welcome!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;My+name+is+Muna+Bedan;A+software+developer+from+Kenya;Welcome!) 
 
 </div>
 
