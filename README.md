@@ -16,6 +16,7 @@
 <div align="center"> 
  <a href="https://www.youtube.com/@bedanlabs9582" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
 <a href="https://www.tiktok.com/@muna_bedan" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+<a  href="https://munabedan.github.io/"><img src="https://img.shields.io/badge/-blog-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=fc0"></a>
  <a href="https://www.reddit.com/munabedan" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
   
